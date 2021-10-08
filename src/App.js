@@ -18,6 +18,7 @@ function App() {
           Learn React
         </a>
         <p>Ini bikin login</p>
+        <p>Ini dari yuda</p>
       </header>
     </div>
   );
